@@ -1,8 +1,6 @@
-def my_superfunction()
-
 
 def main():
-    my_superfunction()
+    pass
 
 
 if __name__ == '__main__':
