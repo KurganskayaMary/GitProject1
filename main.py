@@ -1,7 +1,7 @@
 
-def main():
+def main1():
     pass
 
 
-if __name__ == '__main__':
-    main()
+if __name__ == '__main1__':
+    main1()
