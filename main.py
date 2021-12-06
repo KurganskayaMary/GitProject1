@@ -1,9 +1,7 @@
-def my_superfunction():
-    print('What an awesome ')
+def my_superfunction()
 
 
 def main():
-    print('My first git program')
     my_superfunction()
 
 
